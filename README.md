@@ -84,3 +84,6 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+![image](https://user-images.githubusercontent.com/84428702/120439777-7f780100-c3b5-11eb-8cc2-866cf83992f6.png)
+
